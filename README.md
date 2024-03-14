@@ -3,6 +3,7 @@ Overview:
 
 The Voice Assistant project aims to create a hands-free experience for users.
 It responds to voice commands, performs tasks, and provides information.
+
 Features:
 
 Voice recognition
